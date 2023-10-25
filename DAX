@@ -1,0 +1,14 @@
+--average salary of staffs
+AVERAGE SALARY = AVERAGE(Palmoria[Salary])
+--total salary pay across all regions
+TOTAL SALARY PAY = SUM(Palmoria[Salary])
+--total bonus payout across all regions
+TOTAL BONUS PAYOUT = SUM(Palmoria[Bonus ])
+--Min Salary pay at  Palmoria
+PALMORIA MIN SALARY = MIN(Palmoria[Salary]) 
+--Number of male staffs at Palmoria
+MALE STAFF = calculate(COUNTROWS(Palmoria), Palmoria[Gender]="male")
+--Number of female staffs at Palmoria
+FEMALE STAFF = calculate(COUNTROWS(Palmoria), Palmoria[Gender]="female")
+--total number of staffs at palmoria
+Total staff = SUM(Palmoria[Non Binary] )
