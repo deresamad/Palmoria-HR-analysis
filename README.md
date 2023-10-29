@@ -20,7 +20,20 @@ manufacturing companies to pay employees a minimum of
 $90,000.Does Palmoria meet this requirement?
 5. What is the amount to be paid as bonus to individual
 employees?
-- what is the total amount to be paid to individual employees
+6. what is the total amount to be paid to individual employees
 (salary inclusive of bonus)?
-- what is the total amount to be paid out per region and company-wide?
+7. what is the total amount to be paid out per region and company-wide?
+
+   ## Skills/Concept Demonstrated
+   The following PowerBi features were incorporated:
+   - Quick measures
+   - Filters
+   - Power Query
+   - DAX
+
+   ## Modelling
+   The project did not require modelling of any sort as it was only a single table of data.
+
+   ## Data Sourcing
+   The data was downloaded as a csv file. It contained 1016 rows and 6 columns.
 
