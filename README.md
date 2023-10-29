@@ -10,5 +10,17 @@ analyse the companyâ€™s HR data and come up with recommendationsfor managementâ€
 
 **_Disclaimer_** _All datasets and reports do not represent any company or institution but just a dummy dataset
 to demonstrate capabilities in PowerBi_.
-
+## Problem Statement 
+1. What is the gender distribution in the organization? Distil to
+regions and departments
+2. What are insights on ratings based on gender?
+3. is there a gender pay gap in the company's salary structure?
+4. A recent regulation was adopted which requires
+manufacturing companies to pay employees a minimum of
+$90,000.Does Palmoria meet this requirement?
+5. What is the amount to be paid as bonus to individual
+employees?
+- what is the total amount to be paid to individual employees
+(salary inclusive of bonus)?
+- what is the total amount to be paid out per region and company-wide?
 
