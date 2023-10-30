@@ -37,3 +37,6 @@ employees?
    ## Data Sourcing
    The data was downloaded as a csv file. It contained 1016 rows and 6 columns.
 
+   ## Data Cleaning/Manipulation
+   
+
