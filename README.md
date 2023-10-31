@@ -35,12 +35,17 @@ employees?
    The project did not require modelling of any sort as it was only a single table of data.
 
    ## Data Sourcing
-   The data was downloaded as a csv file. It contained 1016 rows and 6 columns.
+   The data was downloaded as a csv file. it is an employee table that 1016 rows and 6 columns of data.
 
    ## Data Cleaning/Manipulation
    The data was effciently cleaned using basic excel functions to replace missing values
    ![](palmoria_excel.png)
-   It was then transformed using Power Query in PowerBi.
-   ![](palmoria_powerquery.png.png)
+   It was then transformed using Power Query in PowerBi.Some of the applied steps included
+   - creating new columns for bonus and salary grade.
+   - making first rows as headers in the employee table
+   - creating new measures to calculate total number of male and female staffs 'FEMALE STAFF = calculate(COUNTROWS(Palmoria), Palmoria[Gender]="female")'
+     
+   ![](palmoria_powerquery.png)
+   
  
 
