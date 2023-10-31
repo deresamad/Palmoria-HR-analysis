@@ -43,7 +43,10 @@ employees?
    It was then transformed using Power Query in PowerBi.Some of the applied steps included
    - creating new columns for bonus and salary grade.
    - making first rows as headers in the employee table
-   - creating new measures to calculate total number of male and female staffs 'FEMALE STAFF = calculate(COUNTROWS(Palmoria), Palmoria[Gender]="female")'
+   - creating new measures to calculate total number of male and female staffs `FEMALE STAFF = calculate(COUNTROWS(Palmoria), Palmoria[Gender]="female")`
+     `MALE STAFF = calculate(COUNTROWS(Palmoria), Palmoria[Gender]="male")`
+   -calculating bonus pay per individual employee which is 2.1% of their salary `[Bonus ] = 
+Palmoria[Salary]*Palmoria[Bonus %]`
      
    ![](palmoria_powerquery.png)
    
