@@ -50,6 +50,6 @@ Palmoria[Salary]*Palmoria[Bonus %]`
      
    ![](palmoria_powerquery.png)
    ## Data Visualization
-   
+    ![](PALMORIA_DASHBOARD.png)
  
 
