@@ -38,5 +38,9 @@ employees?
    The data was downloaded as a csv file. It contained 1016 rows and 6 columns.
 
    ## Data Cleaning/Manipulation
-   
+   The data was effciently cleaned using basic excel functions to replace missing values
+   ![](palmoria_excel.png)
+   It was then transformed using Power Query in PowerBi.
+   ![](palmoria_powerquery.png.png)
+ 
 
