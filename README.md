@@ -24,7 +24,7 @@ employees?
 (salary inclusive of bonus)?
 7. what is the total amount to be paid out per region and company-wide?
 
-   ## Skills/Concept Demonstrated
+   ##  Skills/Concept Demonstrated
    The following PowerBi features were incorporated:
    - Quick measures
    - Filters
