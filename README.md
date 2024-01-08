@@ -14,7 +14,7 @@ to demonstrate capabilities in PowerBi_.
 1. What is the gender distribution in the organization? Distil to
 regions and departments
 2. What are insights on ratings based on gender?
-3. is there a gender pay gap in the company's salary structure?
+3. Is there a gender pay gap in the company's salary structure?
 4. A recent regulation was adopted which requires
 manufacturing companies to pay employees a minimum of
 $90,000.Does Palmoria meet this requirement?
