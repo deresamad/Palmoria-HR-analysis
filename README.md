@@ -56,7 +56,7 @@ Palmoria[Salary]*Palmoria[Bonus %]`
      The lowest paid staff at Palmoria gets $28,000 anually.
    - The amount being paid as bonus to individual employees is $2.2M
    - The total amount being paid out total amount to be paid to individual employees (salary inclusive of bonus) is $71.92M.
-   -                                       
+                                         
     ![](PALMORIA_DASHBOARD.png)
  
 
