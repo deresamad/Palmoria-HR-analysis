@@ -17,7 +17,7 @@ regions and departments
 3. Is there a gender pay gap in the company's salary structure?
 4. A recent regulation was adopted which requires
 manufacturing companies to pay employees a minimum of
-$90,000.Does Palmoria meet this requirement?
+$90,000. Does Palmoria meet this requirement?
 5. What is the amount to be paid as bonus to individual
 employees?
 6. what is the total amount to be paid to individual employees
@@ -35,7 +35,7 @@ employees?
    The project did not require modelling of any sort as it was only a single table of data.
 
    ## Data Sourcing
-   The data was downloaded as a csv file. it is an employee table that 1016 rows and 6 columns of data.
+   The data was downloaded as a csv file. it is an employee table that 1016 rows and 6 columns of data. 
 
    ## Data Cleaning/Manipulation
    The data was effciently cleaned using basic excel functions to replace missing values
@@ -49,7 +49,14 @@ employees?
 Palmoria[Salary]*Palmoria[Bonus %]`
      
    ![](palmoria_powerquery.png)
-   ## Data Visualization
+   ## Data Analysis and Visualization
+   - The Organisation has a total of 946 staffs with 465 males (49.1%) and 441 females (46.6%) across all regions.
+   - There is no gender pay gap in the companies salary structure as both male and female employees are evenly compensated from the data.
+   - Palmoria does not meet the regulatory requirement thats states that manufacturing companies must pay a minimum of $90,000 annually to their staffs.
+     The lowest paid staff at Palmoria gets $28,000 anually.
+   - The amount being paid as bonus to individual employees is $2.2M
+   - The total amount being paid out total amount to be paid to individual employees (salary inclusive of bonus) is $71.92M.
+   -                                       
     ![](PALMORIA_DASHBOARD.png)
  
 
