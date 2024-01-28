@@ -53,13 +53,15 @@ Palmoria[Salary]*Palmoria[Bonus %]`
      
    ![](palmoria_powerquery.png)
    ## Data Analysis and Visualization
+
+   ![](PALMORIA_DASHBOARD.png)
+
    - The Organisation has a total of 946 staffs with 465 males (49.1%) and 441 females (46.6%) across all regions.
    - There is no gender pay gap in the companies salary structure as both male and female employees are evenly compensated from the data.
    - Palmoria does not meet the regulatory requirement thats states that manufacturing companies must pay a minimum of $90,000 annually to their staffs.
      The lowest paid staff at Palmoria gets $28,000 anually.
    - The amount being paid as bonus to individual employees is $2.2M
    - The total amount being paid out total amount to be paid to individual employees (salary inclusive of bonus) is $71.92M.
-                                         
-    ![](PALMORIA_DASHBOARD.png)
+                                        
  
 
