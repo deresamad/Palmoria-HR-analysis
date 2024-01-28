@@ -13,7 +13,9 @@ analyse the companyâ€™s HR data and come up with recommendations for managementâ
 
 **_Disclaimer_** _All datasets and reports do not represent any company or institution but just a dummy dataset
 to demonstrate capabilities in PowerBi_.
+
 ## Problem Statement 
+
 1. What is the gender distribution in the organization? Distil to
 regions and departments
 2. What are insights on ratings based on gender?
@@ -28,6 +30,7 @@ employees?
 7. what is the total amount to be paid out per region and company-wide?
 
    ##  Skills/Concept Demonstrated
+
    The following PowerBi features were incorporated:
    - Quick measures
    - Filters
