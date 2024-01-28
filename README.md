@@ -1,7 +1,7 @@
 # Palmoria-HR-analysis
 
-![](palmora_intro.jpg)
-
+![](Palmoria_intro_image.jpg)
+Image by <a href="https://www.freepik.com/free-photo/flat-lay-people-working-desk_32987895.htm#query=HR%20ANALYTICS&position=42&from_view=search&track=ais&uuid=d2997575-9d13-4554-bb83-749d467a2c54">Freepik</a>
 ##  Introduction
 This is a power Bi project on HR analysis of **The Palmoria Group**, a manufacturing company based in the Nigeria
 embroiled in issues bordering on gender inequality in its 3 regions.
