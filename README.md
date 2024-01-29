@@ -1,6 +1,6 @@
 # Palmoria-HR-analysis
 
-![](Palmoria_intro_image.jpg)
+![](hr_intro.jpeg)
 
 
 
